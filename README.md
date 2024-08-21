@@ -43,6 +43,10 @@ Open a web browser and go to http://localhost:8080.
 Accessing the H2 Database
 To view the H2 database console:
 
+Contributing: If you'd like to contribute to this project, please fork the repository and submit a pull request.
+
+Author: Mohammad Ammar Attar
+
 Go to http://localhost:8080/h2-console.
 Use the following settings:
 JDBC URL: jdbc:h2:mem:inventorydb
